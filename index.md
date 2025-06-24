@@ -13,5 +13,5 @@ title: Nijs Machinery
 </div>
 
 <div class="cta">
-  <a href="voorwaarden.md">Algemene voorwaarden</a>
+  <a href="/voorwaarden">Algemene voorwaarden</a>
 </div>
