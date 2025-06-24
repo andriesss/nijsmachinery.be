@@ -6,7 +6,7 @@ title: Algemene Voorwaarden
 # Algemene Voorwaarden – Nijs Machinery
 
 ## 1. Algemeen
-1.1. Deze algemene voorwaarden zijn van toepassing op alle offertes, werkzaamheden, diensten en overeenkomsten tussen Nijs Machinery, gevestigd te [adres invullen], en haar klanten.  
+1.1. Deze algemene voorwaarden zijn van toepassing op alle offertes, werkzaamheden, diensten en overeenkomsten tussen Nijs Machinery, gevestigd te  ERKSTRAAT 129, 3930 HAMONT-ACHEL, en haar klanten.  
 1.2. Afwijkingen van deze voorwaarden zijn enkel geldig indien schriftelijk overeengekomen.
 
 ## 2. Diensten

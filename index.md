@@ -1,13 +1,17 @@
 ---
-layout: default
+layout: landing
 title: Nijs Machinery
 ---
 
 # Nijs Machinery
 
-📍 ERKSTRAAT 129 · 3930 HAMONT-ACHEL
-📞 [0479 10 01 62]  
-✉️ [info@nijsmachinery.be]
-🧾 BTW: BE1012216675
+<div class="info">
+  📍 ERKSTRAAT 129 · 3930 HAMONT-ACHEL  <br>
+  📞 <a href="tel:+32479100162">0479 10 01 62</a>  <br>
+  ✉️ <a href="mailto:info@nijsmachinery.be">info@nijsmachinery.be</a>  <br>
+  🧾 BTW BE1012216675
+</div>
 
-📄 Lees onze [algemene voorwaarden](voorwaarden.md)
+<div class="cta">
+  <a href="voorwaarden.md">Algemene voorwaarden</a>
+</div>
