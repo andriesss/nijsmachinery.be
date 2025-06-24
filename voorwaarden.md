@@ -20,7 +20,7 @@ title: Algemene Voorwaarden
 3.3. Meerwerk of bijkomende kosten worden afzonderlijk aangerekend.
 
 ## 4. Betalingsvoorwaarden
-4.1. Facturen zijn betaalbaar binnen 14 dagen na factuurdatum, tenzij anders overeengekomen.   
+4.1. Facturen zijn betaalbaar binnen 10 dagen na factuurdatum, tenzij anders overeengekomen.   
 4.2. Nijs Machinery behoudt zich het recht voor om verdere werken op te schorten bij betalingsachterstand.
 
 ## 5. Aansprakelijkheid
