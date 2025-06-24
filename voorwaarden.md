@@ -33,12 +33,11 @@ title: Algemene Voorwaarden
 6.2. De garantie vervalt indien de klant of derden zelf herstellingen uitvoeren aan het betrokken onderdeel.
 
 ## 7. Annulatie en verplaatsing
-7.1. Afspraken kunnen kosteloos geannuleerd of verplaatst worden tot 24 uur op voorhand.  
-7.2. Bij laattijdige annulatie kan een forfaitaire vergoeding worden aangerekend van €50.
+7.1. Afspraken kunnen kosteloos geannuleerd of verplaatst worden tot 24 uur op voorhand.
 
 ## 8. Toepasselijk recht en geschillen
 8.1. Op alle overeenkomsten is het Belgisch recht van toepassing.  
-8.2. Geschillen worden bij voorkeur in der minne geregeld. Indien geen akkoord bereikt wordt, zijn uitsluitend de rechtbanken van het arrondissement [plaats invullen] bevoegd.
+8.2. Geschillen worden bij voorkeur in der minne geregeld. Indien geen akkoord bereikt wordt, zijn uitsluitend de rechtbanken van het arrondissement Hasselt bevoegd.
 
 ## 9. Privacy
 9.1. Nijs Machinery verwerkt persoonsgegevens enkel voor de uitvoering van de overeenkomst en houdt zich aan de geldende privacywetgeving (GDPR).  
