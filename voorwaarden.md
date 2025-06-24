@@ -20,9 +20,8 @@ title: Algemene Voorwaarden
 3.3. Meerwerk of bijkomende kosten worden afzonderlijk aangerekend.
 
 ## 4. Betalingsvoorwaarden
-4.1. Facturen zijn betaalbaar binnen 14 dagen na factuurdatum, tenzij anders overeengekomen.  
-4.2. Bij laattijdige betaling is van rechtswege en zonder ingebrekestelling een nalatigheidsinterest verschuldigd van 8% per jaar, alsook een forfaitaire schadevergoeding van 10% met een minimum van €50.  
-4.3. Nijs Machinery behoudt zich het recht voor om verdere werken op te schorten bij betalingsachterstand.
+4.1. Facturen zijn betaalbaar binnen 14 dagen na factuurdatum, tenzij anders overeengekomen.   
+4.2. Nijs Machinery behoudt zich het recht voor om verdere werken op te schorten bij betalingsachterstand.
 
 ## 5. Aansprakelijkheid
 5.1. Nijs Machinery is niet aansprakelijk voor indirecte schade, gevolgschade of winstderving.  
